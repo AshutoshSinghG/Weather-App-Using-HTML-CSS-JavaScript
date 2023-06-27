@@ -1,7 +1,7 @@
 /* 
 Weather App By Ashutosh Singh
 instagram: @ashutoshsingh.me
-GitHub : @ashutoshsingh.me
+GitHub : @ashutoshsinghg
 */ 
 
 const apiKey = "0f8fffb4cab3331c9cffd6096ee4d8f1";
